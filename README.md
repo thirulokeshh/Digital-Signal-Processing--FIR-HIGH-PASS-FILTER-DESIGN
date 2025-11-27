@@ -1,4 +1,4 @@
-# Digital-Signal-Processing--FIR-HIGH-PASS-FILTER-DESIGN
+# Digital-Signal-Processing--FIR-LOW-PASS-FILTER-DESIGN
 ## AIM:
 To generate design of Low pass FIR digital filter using Window.
 ## Software Required:
