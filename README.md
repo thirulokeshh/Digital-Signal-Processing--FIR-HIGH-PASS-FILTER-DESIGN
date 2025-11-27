@@ -1,6 +1,6 @@
 # Digital-Signal-Processing--FIR-HIGH-PASS-FILTER-DESIGN
 ## AIM:
-To generate design of High pass FIR digital filter using Window.
+To generate design of Low pass FIR digital filter using Window.
 ## Software Required:
 MAT LAB R2012.
 ## Algorithm:
